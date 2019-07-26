@@ -15,3 +15,7 @@ A feature of ktor for setting up single page application like Angular, React and
 ### RDruid
 Druid connector for R 
 https://github.com/druid-io/RDruid
+
+### JsonSerializerSwift
+A simple Json Serializer for Swift
+https://github.com/peheje/JsonSerializerSwift
