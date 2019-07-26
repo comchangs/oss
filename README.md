@@ -1,4 +1,4 @@
-# Murry's OSS
+# Murry's Open source software
 
 ## JSend
 A library used for generating Json String of JSend
