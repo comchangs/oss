@@ -1,4 +1,4 @@
-# Murry's Open source software
+# Murry's Open Source Software
 
 ## Own
 ### JSend
